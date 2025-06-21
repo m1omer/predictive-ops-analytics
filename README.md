@@ -73,7 +73,5 @@ predictive-ops-analytics/
 ├── output/
 │   ├── predictive_maintenance_output.csv
 │   └── feature_importance.csv
-├── report/
-│   └── strategy-summary.md
 └── README.md
 
